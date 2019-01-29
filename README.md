@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/prab2112/better-readme.svg?branch=master)](https://travis-ci.com/prab2112/better-readme)
+
 # Project Title
 
 One Paragraph of project description goes here
